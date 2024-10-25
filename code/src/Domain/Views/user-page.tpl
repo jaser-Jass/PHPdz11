@@ -1,0 +1,1 @@
+<p>{{ user.getUserName() }} {{ user.getUserLastName() }}. День рожденья: {{ user.getUserBirthday() | date('d.m.Y')}}</p>
